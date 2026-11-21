@@ -1,16 +1,35 @@
-## Hi there 👋
+# Johnny Vidal
 
-<!--
-**vidaltech/vidaltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Software Builder · Founder · Systems & Automation**
 
-Here are some ideas to get you started:
+Building intelligent software that connects artificial intelligence, engineering, and real-world business applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing AI-powered platforms, autonomous agents, and scalable software infrastructure.
+
+---
+
+### Focus Areas
+- Artificial Intelligence & AI Agents
+- Software Engineering
+- SaaS Architecture
+- Backend Development & APIs
+- Business Process Automation
+- Conversational Intelligence
+
+### Technology Stack
+- Python
+- JavaScript / TypeScript
+- Node.js
+- Linux
+- Git & GitHub
+- API Development
+
+### Current Projects
+- **AERON** — AI software engineering agent.
+- **AX1** — Conversational intelligence engine.
+
+---
+
+**Build with precision. Engineer for scale. Solve meaningful problems.**
+
+*Costa Rica · Building globally.*
